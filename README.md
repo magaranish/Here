@@ -31,7 +31,7 @@
 </div>
 <div class="gallery">
         <a target="_blank" href="https://www.iciclesadventuretreks.com/uploads/2019/07/view-of-pokhara.jpg">
-    <img src = "https://www.iciclesadventuretreks.com/uploads/2019/07/view-of-pokhara.jpg"width="200" height="300" >
+    <img src = "https://www.iciclesadventuretreks.com/uploads/2019/07/view-of-pokhara.jpg" alt="Pokhara city"width="200" height="300" >
     <div class="desc">pokhara city</div></a>
 </div>
 <div class="gallery">
@@ -40,40 +40,40 @@
 </div>
 <div class="gallery">
     <a target="_blank" href="https://i0.wp.com/www.tipsnepal.com/wp-content/uploads/2020/08/39358990490_c09709e8a5_c-1.jpg?resize=768%2C433&quality=100&strip=all&ssl=1">
-            <img src="https://i0.wp.com/www.tipsnepal.com/wp-content/uploads/2020/08/39358990490_c09709e8a5_c-1.jpg?resize=768%2C433&quality=100&strip=all&ssl=1"width="200" height="200" >
+            <img src="https://i0.wp.com/www.tipsnepal.com/wp-content/uploads/2020/08/39358990490_c09709e8a5_c-1.jpg?resize=768%2C433&quality=100&strip=all&ssl=1" alt= "Ruby valley of Dhading" width="200" height="200" >
             <div class="desc">Ruby Valley is well-known its famous for gemstone mining, rubies which makes this the Best Places to Visit in Dhading.</div>    
  </a>
 </div>
     <div class="gallery">
 <a target="_blank" href="https://www.lrbtravelteam.com/wp-content/uploads/2020/12/pokhara..png">
-    <img src = "https://www.lrbtravelteam.com/wp-content/uploads/2020/12/pokhara..png"width="200" height="300" >
+    <img src = "https://www.lrbtravelteam.com/wp-content/uploads/2020/12/pokhara..png" alt="Boats"width="200" height="300" >
     <div class="desc">guess yourself</div> </a>   
 </div>
 <div class="gallery">
         <a target="_blank" href="https://i.pinimg.com/originals/92/23/96/92239685b0e31b69daeae2d360602e46.jpg">
-<img src = "https://i.pinimg.com/originals/92/23/96/92239685b0e31b69daeae2d360602e46.jpg"width="200" height="300" >
+<img src = "https://i.pinimg.com/originals/92/23/96/92239685b0e31b69daeae2d360602e46.jpg" alt=" scene "width="200" height="300" >
 <div class="desc">guess yourself</div></a>    
 </div>
 <div class="gallery">
  <a target="_blank" href="https://www.eadarsha.com/eng/wp-content/uploads/sites/2/2021/10/Gandaki-Uni.jpg">
-    <img src = "https://www.eadarsha.com/eng/wp-content/uploads/sites/2/2021/10/Gandaki-Uni.jpg"width="200" height="300" >
+    <img src = "https://www.eadarsha.com/eng/wp-content/uploads/sites/2/2021/10/Gandaki-Uni.jpg"alt="GU BIT" width="200" height="300" >
     <div class="desc">guess yourself</div></a>    
     </div>
 <div class="gallery">
     <a target="_blank" href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/solo-leveling-2.jpg">
-        <img src = "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/solo-leveling-2.jpg"width="200" height="300" >
+        <img src = "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/solo-leveling-2.jpg" alt="pic" width="200" height="300" >
         <div class="desc">Animated picture</div>
       </a> 
      </div> 
         <div class="gallery">
     <a target="_blank" href="https://cdn.europosters.eu/image/1300/julisteet/one-piece-ace-sabo-luffy-i102249.jpg">
-        <img src = "https://cdn.europosters.eu/image/1300/julisteet/one-piece-ace-sabo-luffy-i102249.jpg"width="200" height="300" >
+        <img src = "https://cdn.europosters.eu/image/1300/julisteet/one-piece-ace-sabo-luffy-i102249.jpg" alt= "pic" width="200" height="300" >
         <div class="desc">Animated picture</div>
        </a>
     </div>
        <div class="gallery">
      <a target="_blank" href="https://pbs.twimg.com/media/FMrcJ7nX0AID2UV.jpg:large">
-        <div> <img src = "https://pbs.twimg.com/media/FMrcJ7nX0AID2UV.jpg:large"width="200" height="300" ></div>
+        <div> <img src = "https://pbs.twimg.com/media/FMrcJ7nX0AID2UV.jpg:large" alt="pic" width="200" height="300" ></div>
        <div class="desc">Animated picture</div>
      </a>   
     </div>
