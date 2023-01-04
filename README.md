@@ -2,6 +2,17 @@
 <head>
     <title>Photo Gallery</title>
     <style>
+      img:hover {
+ border: 10px solid rgb(9, 255, 0);
+}
+p:hover {
+  font-size:100px;
+  color:rgb(153, 0, 255);
+}
+h1:hover {
+  font-size:100px;
+  color:rgb(0, 38, 255);
+}
         div.gallery {
           margin: 5px;
           border: 1px solid #ccc;
@@ -58,24 +69,6 @@
  <a target="_blank" href="https://www.eadarsha.com/eng/wp-content/uploads/sites/2/2021/10/Gandaki-Uni.jpg">
     <img src = "https://www.eadarsha.com/eng/wp-content/uploads/sites/2/2021/10/Gandaki-Uni.jpg" alt="pic" width="200" height="300" >
     <div class="desc">guess yourself</div></a>    
-    </div>
-<div class="gallery">
-    <a target="_blank" href="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/solo-leveling-2.jpg">
-        <img src = "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/solo-leveling-2.jpg" alt="pic" width="200" height="300" >
-        <div class="desc">Animated picture</div>
-      </a> 
-     </div> 
-        <div class="gallery">
-    <a target="_blank" href="https://cdn.europosters.eu/image/1300/julisteet/one-piece-ace-sabo-luffy-i102249.jpg">
-        <img src = "https://cdn.europosters.eu/image/1300/julisteet/one-piece-ace-sabo-luffy-i102249.jpg" alt= "pic" width="200" height="300" >
-        <div class="desc">Animated picture</div>
-       </a>
-    </div>
-       <div class="gallery">
-     <a target="_blank" href="https://pbs.twimg.com/media/FMrcJ7nX0AID2UV.jpg:large">
-        <div> <img src = "https://pbs.twimg.com/media/FMrcJ7nX0AID2UV.jpg:large" alt="pic" width="200" height="300" ></div>
-       <div class="desc">Animated picture</div>
-     </a>   
     </div>
 </body>
 </html>
