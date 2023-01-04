@@ -16,6 +16,10 @@ h1:hover {
   font-size:100px;
   color:rgb(0, 38, 255);
 }
+button:hover{
+  background-color: rgb(252, 0, 42);
+  font-size: 30px;
+}
         div.gallery {
           margin: 5px;
           border: 1px solid #ccc;
@@ -42,6 +46,7 @@ h1:hover {
     <h1>LOOK</h1>
 <div>
         <p id="content">A photo gallery</p>
+        <a href="www.youtube.com"><button type="button">show</button></a>
 </div>
 <div class="gallery">
         <a target="_blank" href="https://www.iciclesadventuretreks.com/uploads/2019/07/view-of-pokhara.jpg">
