@@ -2,6 +2,9 @@
 <head>
     <title>Photo Gallery</title>
     <style>
+   body{
+  background-color: silver;
+}
       img:hover {
  border: 10px solid rgb(9, 255, 0);
 }
