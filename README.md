@@ -44,9 +44,15 @@ button:hover{
 </head>
 <body>
     <h1>LOOK</h1>
-<div>
+<div vlink="red" alink="blue">
         <p id="content">A photo gallery</p>
-        <a href="www.youtube.com"><button type="button">show</button></a>
+       
+        <a target="_blank" href="https://magaranish.com.np"><button type="button">?</button></a>
+        <br><hr>
+        <a target="_blank" href="https://www.youtube.com"><button type="button">??</button> </a>
+        <br><hr>
+        <a target="_blank" href="https://www.office.com/"><button type="button">???</button> </a>
+        
 </div>
 <div class="gallery">
         <a target="_blank" href="https://www.iciclesadventuretreks.com/uploads/2019/07/view-of-pokhara.jpg">
@@ -74,9 +80,9 @@ button:hover{
 <div class="desc">guess yourself</div></a>    
 </div>
 <div class="gallery">
- <a target="_blank" href="https://www.eadarsha.com/eng/wp-content/uploads/sites/2/2021/10/Gandaki-Uni.jpg">
-    <img src = "https://www.eadarsha.com/eng/wp-content/uploads/sites/2/2021/10/Gandaki-Uni.jpg" alt="pic" width="200" height="300" >
-    <div class="desc">guess yourself</div></a>    
+ <a target="_blank" href="https://www.gandakiuniversity.edu.np">
+    <img src = "https://www.eadarsha.com/eng/wp-content/uploads/sites/2/2021/10/Gandaki-Uni.jpg"alt="GU BIT" width="200" height="300" >
+    <div class="desc"><button type="button">GU</button> </div></a>    
     </div>
 </body>
 </html>
