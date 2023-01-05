@@ -82,7 +82,7 @@ button:hover{
 <div class="gallery">
  <a target="_blank" href="https://www.gandakiuniversity.edu.np">
     <img src = "https://www.eadarsha.com/eng/wp-content/uploads/sites/2/2021/10/Gandaki-Uni.jpg" alt="GU BIT" width="200" height="300" >
-    <div class="desc"><button type="button">GU</button> </div></a>    
+    <div class="desc"><button type="button">GU</button></div></a>    
     </div>
 </body>
 </html>
